@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 根本說一切有部毘奈耶隨意事
+#+DATE: 2015-08-30 20:41:52.639828
+#+PROPERTY: JUAN 0
